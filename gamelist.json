@@ -1,5 +1,5 @@
 {
 "168556275": {"gname": "Testing", "scriptname": "test.lua"},
- "3527629287": {"gname": "Big Paintball", "scriptname": "JailbreakAutoRob.lua"},
- "606849621": {"gname": "Jailbreak", "scriptname": "BigPaintball.lua"}
+ "3527629287": {"gname": "Big Paintball", "scriptname": "BigPaintball.lua"},
+ "606849621": {"gname": "Jailbreak", "scriptname": "JailbreakAutoRob.lua"}
 }
